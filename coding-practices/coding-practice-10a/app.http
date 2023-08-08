@@ -1,0 +1,7 @@
+POST https://localhost:3000/login/
+content-type:application/json
+
+{
+ "username":"srikanth",
+ "password":"qwews"
+}
